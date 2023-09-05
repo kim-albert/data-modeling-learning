@@ -1,0 +1,5 @@
+- [the-path-to-insights-data-models-and-pipelines](https://www.coursera.org/learn/the-path-to-insights-data-models-and-pipelines)<br />
+- [advanced-data-modeling](https://www.coursera.org/learn/advanced-data-modeling)<br />
+- [data-modeling-in-power-bi](https://www.coursera.org/learn/data-modeling-in-power-bi)<br />
+- [data-warehouse-bi-building?specialization=data-warehousing](https://www.coursera.org/learn/data-warehouse-bi-building?specialization=data-warehousing)<br />
+- [dwdesign?specialization=data-warehousing](https://www.coursera.org/learn/dwdesign?specialization=data-warehousing)
